@@ -38,6 +38,12 @@ $(document).ready(function() {
 
   });
 
+  $(".main-menu li").mouseover(function(){
+    $(this).find("a").css({"font-size":"20px"});
+  }).mouseout(function(){
+    $(this).find("a").css({"font-size":"18px"});
+  });
+
 
 });
 

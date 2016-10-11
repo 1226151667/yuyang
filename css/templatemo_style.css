@@ -77,7 +77,7 @@ p {
 .main-menu ul {
   padding: 0px;
   margin: 0px;
-  text-align: center;
+  /*text-align: center;*/
 }
 
 .main-menu li {
@@ -1122,10 +1122,6 @@ footer {
   font-family: "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 13px;
   color: #f78e21;
-}
-
-.more-info p {
-  padding-bottom: 20px;
 }
 
 .more-info ul {
